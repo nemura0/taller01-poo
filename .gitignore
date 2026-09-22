@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Java
+*.class
+
+# Eclipse build output
+bin/
+
+# Eclipse workspace metadata
+.metadata/
+
+# Temporales
+tmp/
+temp/
